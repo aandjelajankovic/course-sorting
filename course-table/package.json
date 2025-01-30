@@ -1,0 +1,14 @@
+{
+  "name": "course-table",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
